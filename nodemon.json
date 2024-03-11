@@ -1,7 +1,6 @@
 {
-    "watch": ["./"],
-    "ext": "ts",
-    "ignore": ["web"],
-    "exec": "ts-node server.ts"
-  }
-  
+  "watch": ["./"],
+  "ext": "ts",
+  "ignore": ["web"],
+  "exec": "ts-node server.ts"
+}
